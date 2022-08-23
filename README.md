@@ -1,7 +1,9 @@
 # Python per il Calcolo Scientifico
 
 Collection of notes and excercises for the univerisity course "Python per il calcolo scientifico 2021/2022".
-[Reference:](https://python.angelocardellicchio.it)
+
+[Reference]: 
+(https://python.angelocardellicchio.it)
 
 # Outline:
 ## First Part - Libraries
