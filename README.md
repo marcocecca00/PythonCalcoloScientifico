@@ -5,7 +5,7 @@ Collection of notes and excercises for the univerisity course "*Python per il ca
 *Reference*: 
 https://python.angelocardellicchio.it
 
-# Outline:
+**Outline**
 
 ## **First Part - Libraries**
 
