@@ -24,6 +24,6 @@ https://python.angelocardellicchio.it
 2.7 Metriche per Clustering
 2.8 Scikit Learn - Tips & Tricks
 
-## **Third part - Neural Network, TensorFlow & Keras*
+## **Third part - Neural Network, TensorFlow & Keras**
 
-3.1 Introduzione al Machine Learning
+3.1 
