@@ -37,7 +37,7 @@ https://python.angelocardellicchio.it
 
 ### **Third part - Neural Network, TensorFlow & Keras**
 
-**3.1** [Reti Neurali & TensorFlow](Notes/"Introduzione%20alle%20Reti%20Neurali%20%26%20TensorFlow.ipynb")
+**3.1** [Reti Neurali & TensorFlow](https://github.com/marcocecca00/PythonCalcoloScientifico/blob/main/Notes/Reti Neurali & TensorFlow.ipynb)
 
 **3.2** Overfitting e Regolarizzazione
 
