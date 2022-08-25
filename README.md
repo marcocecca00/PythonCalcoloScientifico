@@ -3,6 +3,7 @@
 Collection of notes and excercises for the univerisity course "Python per il calcolo scientifico 2021/2022".
 
 Organizzazione:
+
 ## Prima parte - Librerie
 
 - Introduzione a NumPy
@@ -17,3 +18,4 @@ Organizzazione:
 - Metriche
 - Apprendimento Supervisionato - Classificatori e Regressori
 
+## Terza parte - Reti Neurali, TensorFlow e Keras
