@@ -9,38 +9,38 @@ https://python.angelocardellicchio.it
 
 ### **First Part - Libraries**
 
-    **1.1** Introduzione a NumPy
+**1.1** Introduzione a NumPy
 
-    **1.2** Introduzione a MatPlotLib
+**1.2** Introduzione a MatPlotLib
 
-    **1.3** Introduzione a Pandas Seaborn SciPy
+**1.3** Introduzione a Pandas Seaborn SciPy
 
 ### **Second part - Machine Learning & Scikit Learn**
 
-    **2.1** Introduzione al Machine Learning
+**2.1** Introduzione al Machine Learning
 
-    **2.2** Introduzione a Scikit Learn
+**2.2** Introduzione a Scikit Learn
 
-    **2.3** Apprendimento Supervisionato - Regressione Lineare e Logistica
+**2.3** Apprendimento Supervisionato - Regressione Lineare e Logistica
 
-    **2.4** Metriche per Classificatori e Regressori
+**2.4** Metriche per Classificatori e Regressori
 
-    **2.5** Apprendimento Supervisionato - Classificatori e Regressori
+**2.5** Apprendimento Supervisionato - Classificatori e Regressori
 
-    **2.6** Apprendimento Non Supervisionato - Clustering
+**2.6** Apprendimento Non Supervisionato - Clustering
 
-    **2.7** Metriche per Clustering
+**2.7** Metriche per Clustering
 
-    **2.8** Scikit Learn - Tips & Tricks
+**2.8** Scikit Learn - Tips & Tricks
 
-    **2.9** Esercizi Scikit Learn
+**2.9** Esercizi Scikit Learn
 
 ### **Third part - Neural Network, TensorFlow & Keras**
 
-    **3.1** Reti Neurali & TensorFlow
+**3.1** [Reti Neurali & TensorFlow](Notes/Introduzione%20alle%20Reti%20Neurali%20%26%20TensorFlow.ipynb)
 
-    **3.2** Overfitting e Regolarizzazione
+**3.2** Overfitting e Regolarizzazione
 
-    **3.3** Elaborazione delle Immagini
-    
-    **3.4** TensorFlow - Tips & Tricks
+**3.3** Elaborazione delle Immagini
+
+**3.4** TensorFlow - Tips & Tricks
