@@ -39,8 +39,10 @@ https://python.angelocardellicchio.it
 
 **3.1** [Reti Neurali & TensorFlow](/Notes/Reti%20Neurali%20%26%20TensorFlow.ipynb)
 
-**3.2** [Overfitting e Regolarizzazione]()
+**3.2** [Overfitting e Regolarizzazione](/Notes/Overfitting%20e%20Regolarizzazione.ipynb)
 
-**3.3** [Elaborazione delle Immagini]()
+**3.3** [Reti Neurali & TensorFlow-Keras](/Notes/Reti%20Neurali%20%26%20TensorFlow.ipynb)
 
-**3.4** [TensorFlow - Tips & Tricks]()
+**3.4** [TensorFlow & Keras - Tips & Tricks](/Notes/TensorFlow%20-%20Tips%20%26%20Tricks.ipynb)
+
+**3.5** [Esercizi su TensorFlow]()
