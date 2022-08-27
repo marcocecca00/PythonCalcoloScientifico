@@ -45,4 +45,4 @@ https://python.angelocardellicchio.it
 
 **3.4** [TensorFlow & Keras - Tips & Tricks](/Notes/TensorFlow%20-%20Tips%20%26%20Tricks.ipynb)
 
-**3.5** [Esercizi su TensorFlow]()
+**3.5** [Esercizi su TensorFlow](/Notes/Esercizi%20TensorFlow.ipynb)
