@@ -5,6 +5,8 @@ Collection of notes and excercises for the univerisity course "*Python per il ca
 *Reference*:
 https://python.angelocardellicchio.it
 
+*Course Reposity:
+https://github.com/anhelus/python-calcolo-numerico*
 ## **Outline**
 
 ### **First Part - Libraries**
@@ -31,18 +33,18 @@ https://python.angelocardellicchio.it
 
 **2.7** [Metriche per Clustering](/Notes/Metriche%20per%20Clustering.ipynb)
 
-**2.8** [Scikit Learn - Tips & Tricks](/Notes/Scikit%20Learn%20-%20Tips%20%26%20Tricks.ipynb)
+**2.8** [Scikit Learn - Tips &amp; Tricks](/Notes/Scikit%20Learn%20-%20Tips%20%26%20Tricks.ipynb)
 
 **2.9** [Esercizi Scikit Learn](/Notes/Esercizi%20Scikit%20Learn.ipynb)
 
 ### **Third part - Neural Network, TensorFlow & Keras**
 
-**3.1** [Reti Neurali & TensorFlow](/Notes/Reti%20Neurali%20%26%20TensorFlow.ipynb)
+**3.1** [Reti Neurali &amp; TensorFlow](/Notes/Reti%20Neurali%20%26%20TensorFlow.ipynb)
 
 **3.2** [Overfitting e Regolarizzazione](/Notes/Overfitting%20e%20Regolarizzazione.ipynb)
 
-**3.3** [Reti Neurali & TensorFlow-Keras](/Notes/Reti%20Neurali%20%26%20TensorFlow.ipynb)
+**3.3** [Reti Neurali &amp; TensorFlow-Keras](/Notes/Reti%20Neurali%20%26%20TensorFlow.ipynb)
 
-**3.4** [TensorFlow & Keras - Tips & Tricks](/Notes/TensorFlow%20-%20Tips%20%26%20Tricks.ipynb)
+**3.4** [TensorFlow &amp; Keras - Tips &amp; Tricks](/Notes/TensorFlow%20-%20Tips%20%26%20Tricks.ipynb)
 
 **3.5** [Esercizi su TensorFlow](/Notes/Esercizi%20TensorFlow.ipynb)
