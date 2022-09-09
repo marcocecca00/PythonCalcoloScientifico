@@ -1,3 +1,8 @@
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+
+
+
 # **Python per il Calcolo Scientifico**
 
 Collection of notes and excercises for the univerisity course "*Python per il calcolo scientifico 2021/2022*".
