@@ -1,12 +1,10 @@
-# **Python per il Calcolo Scientifico**
+# **Computational Data Science**
 
-Collection of notes and excercises for the univerisity course "*Python per il calcolo scientifico 2021/2022*".
+Collection of notes and excercises.
 
 *Reference*:
 https://python.angelocardellicchio.it
 
-*Course Reposity:
-https://github.com/anhelus/python-calcolo-numerico*
 ## **Outline**
 
 ### **First Part - Libraries**
